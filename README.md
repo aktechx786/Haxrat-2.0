@@ -62,5 +62,5 @@ A cloud based remote android managment suite, powered by NodeJS
  - [Leaflet](https://leafletjs.com/)
 
 ## Disclaimer
-<b>I ( Lokesh Pandey a.k.a Hax4Us )  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
+<b>I ( aktechx )  Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 haxRat is built for both Educational and Internal use ONLY.</b>
